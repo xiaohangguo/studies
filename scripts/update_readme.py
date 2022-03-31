@@ -63,6 +63,8 @@ class AlgorithmReadme:
     RE_TAG = re.compile(r'Tag: (.*?)\s')
     RE_SEP = re.compile(r'[,，、]')
 
+    git_add_buf = set()
+
     AUTO_GENERATED = '<!-- Auto-generated -->'
 
     def __init__(self):
@@ -142,7 +144,11 @@ class AlgorithmReadme:
             if flag:
                 self.git_add(fp)
 
-    def git_add(self, fp):  # noqa
+    def git_add(self, fp):
+        if fp in self.git_add_buf:
+            return
+
+        self.git_add_buf.add(fp)
         command_ln = f'git add "{fp}"'
         self.logger.info(command_ln)
         os.system(command_ln)
