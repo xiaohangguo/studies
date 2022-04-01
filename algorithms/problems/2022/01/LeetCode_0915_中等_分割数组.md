@@ -1,4 +1,4 @@
-## 分割数组（LeetCode-0915, 中等, 2022-01）
+## LeetCode_0915_分割数组（中等, 2022-01）
 <!--{
     "tags": ["模拟"],
     "来源": "LeetCode",
@@ -27,9 +27,10 @@
 
 ```txt
 ```
--->
 
 </details>
+-->
+
 
 <!-- <div align="center"><img src="../../../_assets/xxx.png" height="300" /></div> -->
 

@@ -179,7 +179,8 @@ class AlgorithmReadme:
         """"""
         src, no, lv, name = fp.stem.split('_')
         date = '-'.join(str(fp.parent).split('/')[-2:])
-        title = f'## {name}（{src}-{no}, {lv}, {date}）'
+        # title = f'## {name}（{src}-{no}, {lv}, {date}）'
+        title = f'## {src}_{no}_{name}（{lv}, {date}）'
 
         flag = True
         lns = txt.split('\n')
@@ -198,8 +199,8 @@ class AlgorithmReadme:
 
     def try_rename(self, info, fp):  # noqa
         """"""
-        src, no, dif, name = info['来源'], info['编号'], info['难度'], info['标题']
-        fn = f'{src}_{no}_{dif}_{name}.md'
+        src, no, lv, name = info['来源'], info['编号'], info['难度'], info['标题']
+        fn = f'{src}_{no}_{lv}_{name}.md'
         if fn != fp.name:
             self.logger.info(f'rename {fp.name} to {fn}')
             fp = fp.rename(fp.parent / fn)

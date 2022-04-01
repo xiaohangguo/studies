@@ -1,4 +1,4 @@
-## 有效的括号（LeetCode-0020, 简单, 2022-03）
+## LeetCode_0020_有效的括号（简单, 2022-03）
 <!--{
     "tags": ["栈"],
     "来源": "LeetCode",
@@ -23,9 +23,10 @@
 
 ```txt
 ```
--->
 
 </details>
+-->
+
 
 <!-- <div align="center"><img src="../../../_assets/xxx.png" height="300" /></div> -->
 

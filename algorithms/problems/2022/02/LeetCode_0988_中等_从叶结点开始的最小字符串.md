@@ -1,4 +1,4 @@
-## 从叶结点开始的最小字符串（LeetCode-0988, 中等, 2022-02）
+## LeetCode_0988_从叶结点开始的最小字符串（中等, 2022-02）
 <!--{
     "tags": ["二叉树"],
     "来源": "LeetCode",
@@ -22,9 +22,10 @@
 
 ```txt
 ```
--->
 
 </details>
+-->
+
 
 <!-- <div align="center"><img src="../../../_assets/xxx.png" height="300" /></div> -->
 

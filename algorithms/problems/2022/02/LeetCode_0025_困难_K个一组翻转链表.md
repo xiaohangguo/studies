@@ -1,4 +1,4 @@
-## K个一组翻转链表（LeetCode-0025, 困难, 2022-02）
+## LeetCode_0025_K个一组翻转链表（困难, 2022-02）
 <!--{
     "tags": ["链表"],
     "来源": "LeetCode",
@@ -26,9 +26,10 @@ k 是一个正整数，它的值小于或等于链表的长度。
 
 ```txt
 ```
--->
 
 </details>
+-->
+
 
 <!-- <div align="center"><img src="../../../_assets/xxx.png" height="300" /></div> -->
 

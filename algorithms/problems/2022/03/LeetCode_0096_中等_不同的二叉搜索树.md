@@ -1,4 +1,4 @@
-## 不同的二叉搜索树（LeetCode-0096, 中等, 2022-03）
+## LeetCode_0096_不同的二叉搜索树（中等, 2022-03）
 <!--{
     "tags": ["动态规划"],
     "来源": "LeetCode",
@@ -20,9 +20,10 @@
 
 ```txt
 ```
--->
 
 </details>
+-->
+
 
 <!-- <div align="center"><img src="../../../_assets/xxx.png" height="300" /></div> -->
 

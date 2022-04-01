@@ -28,10 +28,10 @@ xxx
 
 <summary><b>思路</b></summary>
 
-<!-- <details><summary><b>Python</b></summary> -->
+<details><summary><b>Python</b></summary>
 
 ```python
 ```
 
-<!-- </details> -->
+</details>
 

@@ -1,4 +1,4 @@
-## 验证二叉搜索树（LeetCode-0098, 中等, 2022-03）
+## LeetCode_0098_验证二叉搜索树（中等, 2022-03）
 <!--{
     "tags": ["二叉树"],
     "来源": "LeetCode",
@@ -20,9 +20,10 @@
 
 ```txt
 ```
--->
 
 </details>
+-->
+
 
 <!-- <div align="center"><img src="../../../_assets/xxx.png" height="300" /></div> -->
 

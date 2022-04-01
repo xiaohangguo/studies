@@ -1,4 +1,4 @@
-## 完全平方数（LeetCode-0279, 中等, 2022-02）
+## LeetCode_0279_完全平方数（中等, 2022-02）
 <!--{
     "tags": ["DFS2DP"],
     "来源": "LeetCode",
@@ -22,9 +22,10 @@
 
 ```txt
 ```
--->
 
 </details>
+-->
+
 
 <!-- <div align="center"><img src="../../../_assets/xxx.png" height="300" /></div> -->
 

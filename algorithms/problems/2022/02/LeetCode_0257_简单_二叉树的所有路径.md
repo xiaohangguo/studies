@@ -1,4 +1,4 @@
-## 二叉树的所有路径（LeetCode-0257, 简单, 2022-02）
+## LeetCode_0257_二叉树的所有路径（简单, 2022-02）
 <!--{
     "tags": ["二叉树"],
     "来源": "LeetCode",
@@ -22,9 +22,10 @@
 
 ```txt
 ```
--->
 
 </details>
+-->
+
 
 <!-- <div align="center"><img src="../../../_assets/xxx.png" height="300" /></div> -->
 
