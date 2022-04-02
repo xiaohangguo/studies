@@ -16,6 +16,7 @@
 
 <details><summary><b> TODO </b></summary>
 
+- [ ] 给 algorithms/notes 添加 README，TOC 树形目录；
 - [ ] 尝试 GitHub 提供的 projects 栏：参考 [Projects · zhaoyan346a/Blog](https://github.com/zhaoyan346a/Blog/projects)
 - [ ] 重构 README 生成的 Algorithms 和 Codes 两个类，并迁移至 tools 目录。
 - [ ] 优化主页 README 下的 Algorithms 链接，调整为层级目录的形式（类似 Notes）
