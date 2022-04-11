@@ -47,7 +47,7 @@
 
     <details><summary><b>图示</b></summary>
 
-    <div align="center"><img src="../../../_assets/剑指Offer_0038_中等_字符串的排列2.png" height="200" /></div>
+    <div align="center"><img src="../../../_assets/剑指Offer_0038_中等_字符串的排列.png" height="200" /></div>
 
     </details>
 
